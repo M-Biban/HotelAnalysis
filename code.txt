@@ -1,2 +1,7 @@
-myString = "hello World"
-print(myString)
+name=My Tutorial
+difficulty=3
+url=http://example.com
+description=This is a tutorial description
+initialState={}
+tests={}
+nextAvailableId=1
