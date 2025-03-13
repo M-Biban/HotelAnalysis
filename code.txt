@@ -17,5 +17,4 @@ test=["fizzbuzz(4)", "fizzbuzz(10)"]
 
 initialStateStart
 def fizzbuzz(number):
-  # write your code here
   pass
