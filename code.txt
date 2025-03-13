@@ -17,3 +17,6 @@ description="Print the numbers 1-number (inclusive) normally"
 hint="Use a for loop to print the numbers. Try using the function \"range(from, to)\""
 expectedOutput=["[1, 2, 3, 4]", "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"]
 test=["fizzbuzz(4)", "fizzbuzz(10)"]
+
+initialStateStart
+print("hello world")
